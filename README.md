@@ -1,3 +1,3 @@
 # annotation_schema_conversion_ABSA
 
-Converting student feedback dataset to the annotation needed for our dataset
+This notebook converts the student feedback dataset from our annotation schema to the annotation which is needed for the ABSA baseline we selected.
